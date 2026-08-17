@@ -5,7 +5,16 @@ Effective Date: August 17, 2026
 
 These Terms and Conditions (“Terms”) govern the use of SMS communications provided by ASILI Institute for Women’s Brain Health, Trauma & Recovery (“ASILI Institute,” “we,” “our,” or “us”).
 
-By providing your mobile phone number and opting in, you agree to receive SMS communications from ASILI Institute and accept these Terms.
+By opting in to receive SMS messages from ASILI Institute for Women's Brain Health, Trauma & Recovery, you agree to receive customer care messages.
+
+Message frequency:
+Message frequency may vary. On average, 1-2 messages per month.
+
+Additional notices:
+Message and data rates may apply.
+
+Privacy Policy:
+Please review our Privacy Policy at https://github.com/gotoconnecttestuser-arch/ASILIPP
 
 1. SMS Program Description
 
